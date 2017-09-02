@@ -1,0 +1,88 @@
+body {
+	background: url('../images/old_moon.png');
+	color: #777;
+	
+}
+
+
+header {
+	background-color: #ffffff;
+	margin-bottom: 25px;
+}
+
+navbar-brand, h1, h2, h3 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-weight: 700;
+	color: #4aaaa5;	
+}
+
+.navbar-brand {
+	padding: 21px;
+	font-size: 2em;
+	color: #fff;
+	background-color: #4aaaa5;
+}
+
+nav.navbar {
+	padding: 0;
+	margin: 0 -15px 0 -15px;
+}
+
+.navbar-nav .nav-link {
+  padding-left: 15px;
+  color: #fff;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.2em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+.panel {
+	background-color: #ffffff;
+	padding: 20px;
+	margin-bottom: 25px;
+}
+
+.panel-heading {
+	border-bottom: 1px solid #777;
+	margin-bottom: 20px;
+}
+
+.work {
+	padding: 0 10px;
+}
+
+.work h3 {
+
+	color: #ffffff;
+	background-color: #4aaaa5;
+	text-align: center;
+	width: 100%;
+	padding: 10px;
+	position: relative;
+	bottom: 25%;
+}
+
+.social {
+	width: 50px;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+
+
+footer {
+	text-align: center;
+	padding: 20px;
+	border-top: 5px solid #4aaaa5;
+	background-color: #777;
+	color: #ffffff;
+	font-size: 0.75em;
+}
