@@ -60,12 +60,13 @@ h3 {
 	padding: 0 10px;
 }
 
-.work h3 {
+.img-responsive {
 
 	color: #ffffff;
 	background-color: #4aaaa5;
 	text-align: center;
-	width: 100%;
+	max-width: 50%;
+	min-width: 300px;
 	padding: 10px;
 	position: relative;
 	bottom: 25%;
